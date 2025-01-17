@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/Explorador.png"
-    width="300"
+    width="400"
 />
 </p>
 
