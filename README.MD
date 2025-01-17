@@ -3,7 +3,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Explorador.png"
     width="300"
 />
 </p>
