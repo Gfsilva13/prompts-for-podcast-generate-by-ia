@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Explorador.jpeg"
+    src="./github/assets/Explorador.jpeg"
     width="300"
 />
 </p>
