@@ -1,6 +1,9 @@
+
+
+
 <p align="center">
 <img 
-    src="./github/assets/Explorador.jpeg"
+    src="./assets/cover.png"
     width="300"
 />
 </p>
