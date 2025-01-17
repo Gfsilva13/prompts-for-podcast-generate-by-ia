@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
 <img 
     src="./assets/Explorador.png"
